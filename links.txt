@@ -1,0 +1,15 @@
+https://github.com/EnclaveConsulting
+
+
+Scripts for managing Windows firewall rules, IPSec, DNS sinkholes, and other networking tasks.
+git@github.com:EnclaveConsulting/Networking.git
+
+Some of the lab files for the SANS Institute course SEC505:
+Securing Windows and PowerShell Automation:
+git@github.com:EnclaveConsulting/SANS-SEC505.git
+
+Misc files related to SANS, Windows security, consulting, or other projects.
+git@github.com:EnclaveConsulting/SANS-Misc.git
+
+Scripts for PowerShell remoting, WinRM, WSMAN, and remote command execution.
+git@github.com:EnclaveConsulting/Remoting.git
