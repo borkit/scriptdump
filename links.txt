@@ -13,3 +13,10 @@ git@github.com:EnclaveConsulting/SANS-Misc.git
 
 Scripts for PowerShell remoting, WinRM, WSMAN, and remote command execution.
 git@github.com:EnclaveConsulting/Remoting.git
+
+-=-=-=-
+Boto3 sample application:
+https://github.com/boto/boto3-sample.git
+application implements a drop video transcoder that lets you easily convert media files by dragging and dropping them on your computer.
+using: AWS IAM, Amazon S3, Amazon SNS, Amazon SQS, Amazon Elastic Transcoder
+-=-=-=-
