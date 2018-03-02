@@ -1,1 +1,0 @@
-URL: http://blog.henryong.com/2010/04/23/automated-sharepoint-2007-farm-configuration-batch-file
