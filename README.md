@@ -2,7 +2,7 @@
 scripts/examples from the net and other repos for personal use.
 
 
-Use at your own risk!
+Use at your own risk! just testing
 
 
 The MIT License (MIT)
